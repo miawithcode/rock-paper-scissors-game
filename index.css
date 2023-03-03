@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.container{
+    text-align: center;
+    height: 100vh;
+    padding: 200px;
+}
+
+.game{
+    padding: 50px;
+    border: 5px solid;
+}
+
+#playerChoice{
+    color: green;
+    margin-bottom: 15px;
+}
+
+#computerChoice{
+    color: blue;
+    margin-bottom: 15px;
+}
+
+#resultText{
+    color: red;
+}
+
+.choiceBtn{
+    padding: 15px 20px;
+    font-size: 20px;
+    border: 5px solid black;
+
+    margin-top: 50px;
+    cursor: pointer;
+}
+
+.choiceBtn:not(:last-child){
+    margin-right: 20px;
+}
+
+.choiceBtn:hover,
+.choiceBtn:focus{
+    background-color: #000000;
+    color: white;
+    border: 3px solid #000000;
+    box-shadow: 0px 4px 27px -12px #000000;
+}
