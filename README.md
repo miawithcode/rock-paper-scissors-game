@@ -1,2 +1,2 @@
-# rock-paper-scissors-game
-Small JavaScript project to create a rock-paper-scissors-game
+# Rock-Paper-Scissors-Game
+用JavaScript写一个简单的剪刀石头布游戏
