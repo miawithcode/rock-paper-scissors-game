@@ -39,10 +39,6 @@
     cursor: pointer;
 }
 
-.choiceBtn:not(:last-child){
-    margin-right: 20px;
-}
-
 .choiceBtn:hover,
 .choiceBtn:focus{
     background-color: #000000;
