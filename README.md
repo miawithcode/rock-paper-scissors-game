@@ -1,6 +1,6 @@
 # Rock Paper Scissors Game
 
-![](rock-paper-scissors-game.png)
+![](images/rock-paper-scissors.png)
 Live Demo: https://mia-rock-paper-scissor-game.netlify.app/
 
 ## 功能
